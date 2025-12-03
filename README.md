@@ -1,4 +1,5 @@
 ✈️ Aircraft Cost Prediction — Python Project
+
 📌 Overview
 
 This project builds a predictive machine learning model to estimate aircraft manufacturing cost using linear regression techniques. Using a dataset containing four key engineering and performance variables (X1–X4), the project demonstrates the complete workflow of preparing data, splitting it into training and testing sets, fitting a model, evaluating performance, and generating insights.
@@ -6,6 +7,7 @@ This project builds a predictive machine learning model to estimate aircraft man
 The work follows instructional steps from the University of West Florida's Tools for Data Science materials and uses Python’s scientific computing stack for reproducibility and clarity.
 
 📂 Project Features
+
 ✔ Data Preparation
 
 Loads aircraft dataset into a pandas DataFrame.
